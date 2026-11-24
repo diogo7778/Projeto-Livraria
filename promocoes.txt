@@ -1,0 +1,10 @@
+genero;desconto
+Romance;10
+Poesia;5
+História;8
+Ciência;12
+Fantasia;7.5
+Teatro;5
+Conto;4
+Estratégia;10
+Ficção;9

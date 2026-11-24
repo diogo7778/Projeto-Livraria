@@ -1,0 +1,51 @@
+codigo;titulo;autor;genero;preco;stock
+L001;Os Maias;Eça de Queirós;Romance;14.90;8
+L002;Ensaio sobre a Cegueira;José Saramago;Romance;16.50;5
+L003;Python para Todos;Ana Martins;Informática;22.00;10
+L004;História de Portugal;João Silva;História;18.75;4
+L005;A Mensagem;Fernando Pessoa;Poesia;9.80;12
+L006;O Principezinho;Antoine de Saint-Exupéry;Infantojuvenil;11.25;7
+L007;O Ano da Morte de Ricardo Reis;José Saramago;Romance;15.95;6
+L008;Aprender Python;Miguel Costa;Informática;22.50;4
+L009;Breve História do Tempo;Stephen Hawking;Ciência;19.90;5
+L010;Contos Exemplares;Sophia de Mello Breyner Andresen;Conto;12.40;9
+L011;Felizmente Há Luar;Luís de Sttau Monteiro;Teatro;10.50;6
+L012;A Arte da Guerra;Sun Tzu;Estratégia;8.95;15
+L013;Clean Code;Robert C. Martin;Informática;34.90;3
+L014;O Hobbit;J. R. R. Tolkien;Fantasia;18.90;7
+L015;1984;George Orwell;Ficção;13.75;10
+L016;Memorial do Convento;José Saramago;Romance;17.20;6
+L017;A Cidade e as Serras;Eça de Queirós;Romance;13.60;8
+L018;Livro do Desassossego;Fernando Pessoa;Poesia;16.80;5
+L019;A Fada Oriana;Sophia de Mello Breyner Andresen;Infantojuvenil;9.50;11
+L020;O Cavaleiro da Dinamarca;Sophia de Mello Breyner Andresen;Infantojuvenil;8.90;13
+L021;Introdução à Programação;Carla Ferreira;Informática;25.00;6
+L022;Algoritmos em Python;Rui Almeida;Informática;29.90;5
+L023;Bases de Dados Simples;Marta Lopes;Informática;21.75;4
+L024;História da Europa;Pedro Martins;História;20.40;7
+L025;Portugal Contemporâneo;Ana Ribeiro;História;18.20;6
+L026;História do Século XX;Carlos Mendes;História;23.50;5
+L027;O Universo numa Casca de Noz;Stephen Hawking;Ciência;21.90;4
+L028;Cosmos;Carl Sagan;Ciência;24.95;6
+L029;A Origem das Espécies;Charles Darwin;Ciência;19.50;3
+L030;Duna;Frank Herbert;Ficção;22.90;8
+L031;Admirável Mundo Novo;Aldous Huxley;Ficção;14.25;9
+L032;Fahrenheit 451;Ray Bradbury;Ficção;13.90;7
+L033;Harry Potter e a Pedra Filosofal;J. K. Rowling;Fantasia;17.95;10
+L034;As Crónicas de Nárnia;C. S. Lewis;Fantasia;16.40;6
+L035;O Nome do Vento;Patrick Rothfuss;Fantasia;21.50;4
+L036;Auto da Barca do Inferno;Gil Vicente;Teatro;7.80;14
+L037;Romeu e Julieta;William Shakespeare;Teatro;9.90;8
+L038;Hamlet;William Shakespeare;Teatro;10.75;5
+L039;Novos Contos da Montanha;Miguel Torga;Conto;11.60;6
+L040;Bichos;Miguel Torga;Conto;10.20;9
+L041;Contos do Gin-Tonic;Mário-Henrique Leiria;Conto;12.95;4
+L042;O Príncipe;Nicolau Maquiavel;Estratégia;9.75;12
+L043;Estratégia Competitiva;Michael Porter;Estratégia;27.90;3
+L044;Pensar Depressa e Devagar;Daniel Kahneman;Estratégia;18.60;5
+L045;O Diário de Anne Frank;Anne Frank;História;12.50;7
+L046;Sapiens;Yuval Noah Harari;História;23.95;6
+L047;Homo Deus;Yuval Noah Harari;Ciência;22.80;5
+L048;O Alquimista;Paulo Coelho;Romance;11.90;10
+L049;Capitães da Areia;Jorge Amado;Romance;13.40;6
+L050;O Velho e o Mar;Ernest Hemingway;Romance;10.95;8
