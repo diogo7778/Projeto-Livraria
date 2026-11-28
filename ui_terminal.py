@@ -1,6 +1,6 @@
 # Aqui fica a parte da interface em texto.
 
-from logica import escolher_livro
+from logica import filtrar_livros
 
 def menu(livros):
     while True:
@@ -8,7 +8,7 @@ def menu(livros):
         opcao = input("Opção: ")
         if opcao == "1":
             genero = input("Qual o genero que procura? ")
-            resultado = escolher_livro(livros, genero)
+            resultado = filtrar_livros(livros, genero)
             if len(resultado) == 0:
                 print("Não existem livros com esse genero")
             else:

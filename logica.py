@@ -14,11 +14,19 @@ def carregar_livros(nome_arquivo):
     return livros
 
 
-def escolher_livro(livros, genero=""):
+def filtrar_livros(livros, genero="", autor="", titulo="", preco_min=None, preco_max=None):
     resultado = []
     for livro in livros:
-        # genero vazio significa mostrar todos
-        if genero == "" or genero.lower() == livro["genero"].lower():
-            resultado.append(livro)
+        # cada filtro vazio significa que o utilizador nao o pediu
+        if genero != "" and genero.lower() != livro["genero"].lower():
+            continue
+        if autor != "" and autor.lower() not in livro["autor"].lower():
+            continue
+        if titulo != "" and titulo.lower() not in livro["titulo"].lower():
+            continue
+        if preco_min is not None and livro["preço"] < preco_min:
+            continue
+        if preco_max is not None and livro["preço"] > preco_max:
+            continue
+        resultado.append(livro)
     return resultado
-
