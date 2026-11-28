@@ -1,10 +1,7 @@
 # GRUPO: P14H
 
 import sys
-<<<<<<< HEAD
-=======
 
->>>>>>> 4255a101d749ccd7f70e89c7d6e47cf30c9d0647
 from logica import carregar_livros
 from ui_terminal import menu
 
